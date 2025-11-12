@@ -43,6 +43,7 @@ mlops-ci-activity/
 Artifacts and Docker builds will appear automatically.
 
 ---
+Triggered CI on 12-Nov-2025
 
 ## 📚 References
 
